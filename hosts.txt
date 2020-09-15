@@ -1,0 +1,13 @@
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=utf-8
+Content-Length: 1558
+Server: Werkzeug/1.0.1 Python/3.7.2
+Date: Tue, 15 Sep 2020 19:32:56 GMT
+
+: google.com : ... ('172.217.15.14', 443)
+        	commonName: *.google.com
+        	SAN: ['*.google.com', '*.android.com', '*.appengine.google.com', '*.bdn.dev', '*.cloud.google.com', '*.crowdsource.google.com', '*.datacompute.google.com', '*.g.co', '*.gcp.gvt2.com', '*.gcpcdn.gvt1.com', '*.ggpht.cn', '*.gkecnapps.cn', '*.google-analytics.com', '*.google.ca', '*.google.cl', '*.google.co.in', '*.google.co.jp', '*.google.co.uk', '*.google.com.ar', '*.google.com.au', '*.google.com.br', '*.google.com.co', '*.google.com.mx', '*.google.com.tr', '*.google.com.vn', '*.google.de', '*.google.es', '*.google.fr', '*.google.hu', '*.google.it', '*.google.nl', '*.google.pl', '*.google.pt', '*.googleadapis.com', '*.googleapis.cn', '*.googlecnapps.cn', '*.googlecommerce.com', '*.googlevideo.com', '*.gstatic.cn', '*.gstatic.com', '*.gstaticcnapps.cn', '*.gvt1.com', '*.gvt2.com', '*.metric.gstatic.com', '*.urchin.com', '*.url.google.com', '*.wear.gkecnapps.cn', '*.youtube-nocookie.com', '*.youtube.com', '*.youtubeeducation.com', '*.youtubekids.com', '*.yt.be', '*.ytimg.com', 'android.clients.google.com', 'android.com', 'developer.android.google.cn', 'developers.android.google.cn', 'g.co', 'ggpht.cn', 'gkecnapps.cn', 'goo.gl', 'google-analytics.com', 'google.com', 'googlecnapps.cn', 'googlecommerce.com', 'source.android.google.cn', 'urchin.com', 'www.goo.gl', 'youtu.be', 'youtube.com', 'youtubeeducation.com', 'youtubekids.com', 'yt.be']
+        	issuer: GTS CA 1O1
+        	notBefore: 2020-08-26 08:08:49
+        	notAfter:  2020-11-18 08:08:49
+        
